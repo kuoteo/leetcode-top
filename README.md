@@ -27,4 +27,5 @@
 |     [91](https://leetcode-cn.com/problems/decode-ways/)      |      [解码方法](/medium/91.cpp)       | medium |      |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome/)   |      [验证回文串](/easy/125.cpp)      |  easy  |      |
 | [227](https://leetcode-cn.com/problems/basic-calculator-ii/) |    [基本计算器II](/medium/227.cpp)    | medium |      |
+|   [334](https://leetcode-cn.com/problems/reverse-string/)    |      [反转字符串](/easy/334.cpp)      |  easy  |      |
 
