@@ -22,4 +22,5 @@
 |  [20](https://leetcode-cn.com/problems/valid-parentheses/)   |      [有效的括号](/easy/20.cpp)       |  easy  |      |
 | [22](https://leetcode-cn.com/problems/generate-parentheses/) |      [括号生成](/medium/22.cpp)       | medium |      |
 |   [28](https://leetcode-cn.com/problems/implement-strstr/)   |     [实现strStr[]](/easy/28.cpp)      |  easy  |      |
+|    [38](https://leetcode-cn.com/problems/count-and-say/)     |       [外观数列](/easy/38.cpp)        |  easy  |      |
 
