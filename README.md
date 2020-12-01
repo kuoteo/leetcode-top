@@ -1,4 +1,4 @@
-# leetcode-hot
+# leetcode-top
 
 记录使用 C++ 刷 leetcode
 
