@@ -47,10 +47,10 @@ class Solution {
 public: 
     int calculate(string s) {
         int begin = 0;
-        return calhelper(string, begin)
+        return calhelper(s, begin);
     }
 
-    int calhelper(string s, &i) {//i用来记录计算开始的索引
+    int calhelper(string s,int &i) {//i用来记录计算开始的索引
         stack<int> sta;
         int res = 0;
         int num = 0;
