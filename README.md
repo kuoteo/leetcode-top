@@ -19,4 +19,6 @@
 |   [13](https://leetcode-cn.com/problems/roman-to-integer/)   |   [罗马数字转整数](/medium/13.cpp)    |  easy  |      |
 | [14](https://leetcode-cn.com/problems/longest-common-prefix/) |     [最长公共前缀](/easy/14.cpp)      |  easy  |      |
 | [17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [电话号码的字母组合](/medium/17.cpp)  | medium |      |
+|  [20](https://leetcode-cn.com/problems/valid-parentheses/)   |      [有效的括号](/easy/20.cpp)       |  easy  |      |
+| [22](https://leetcode-cn.com/problems/generate-parentheses/) |      [括号生成](/medium/22.cpp)       | medium |      |
 
