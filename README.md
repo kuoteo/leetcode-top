@@ -24,4 +24,5 @@
 |   [28](https://leetcode-cn.com/problems/implement-strstr/)   |     [实现strStr[]](/easy/28.cpp)      |  easy  |      |
 |    [38](https://leetcode-cn.com/problems/count-and-say/)     |       [外观数列](/easy/38.cpp)        |  easy  |      |
 |    [49](https://leetcode-cn.com/problems/group-anagrams/)    |    [字母异位分组](/mediun/49.cpp)     | medium |      |
+|     [91](https://leetcode-cn.com/problems/decode-ways/)      |      [解码方法](/medium/91.cpp)       | medium |      |
 
