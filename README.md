@@ -25,6 +25,7 @@
 |   [28](https://leetcode-cn.com/problems/implement-strstr/)   |       [实现strStr[]](/easy/28.cpp)        |  easy  |      |
 |    [38](https://leetcode-cn.com/problems/count-and-say/)     |         [外观数列](/easy/38.cpp)          |  easy  |      |
 |    [49](https://leetcode-cn.com/problems/group-anagrams/)    |      [字母异位分组](/mediun/49.cpp)       | medium |      |
+|   [53](https://leetcode-cn.com/problems/maximum-subarray/)   |        [最大子序和](/easy/53.cpp)         |  easy  |      |
 |     [91](https://leetcode-cn.com/problems/decode-ways/)      |        [解码方法](/medium/91.cpp)         | medium |      |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome/)   |        [验证回文串](/easy/125.cpp)        |  easy  |      |
 | [227](https://leetcode-cn.com/problems/basic-calculator-ii/) |      [基本计算器II](/medium/227.cpp)      | medium |      |
