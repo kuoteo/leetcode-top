@@ -38,6 +38,7 @@
 |  [73](https://leetcode-cn.com/problems/set-matrix-zeroes/)   |                  [矩阵置零](/medium/73.cpp)                  | medium |      |
 |     [75](https://leetcode-cn.com/problems/sort-colors/)      |                  [颜色分类](/medium/75.cpp)                  | medium |      |
 |   [78](https://leetcode-cn.com/problems/subsets/solution/)   |                    [子集](/medium/78.cpp)                    | medium |      |
+|     [79](https://leetcode-cn.com/problems/word-search/)      |                  [单词搜索](/medium/79.cpp)                  | medium |      |
 |     [91](https://leetcode-cn.com/problems/decode-ways/)      |                  [解码方法](/medium/91.cpp)                  | medium |      |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome/)   |                 [验证回文串](/easy/125.cpp)                  |  easy  |      |
 |  [118](https://leetcode-cn.com/problems/pascals-triangle/)   |                  [杨辉三角](/easy/118.cpp)                   |  easy  |      |
