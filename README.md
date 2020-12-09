@@ -33,6 +33,7 @@
 |   [53](https://leetcode-cn.com/problems/maximum-subarray/)   |                  [最大子序和](/easy/53.cpp)                  |  easy  |      |
 |    [54](https://leetcode-cn.com/problems/spiral-matrix/)     |                  [螺旋矩阵](/medium/54.cpp)                  | medium |      |
 |      [55](https://leetcode-cn.com/problems/jump-game/)       |                  [跳跃游戏](/medium/55.cpp)                  | medium |      |
+|   [56](https://leetcode-cn.com/problems/merge-intervals/)    |                  [合并区间](/medium/56.cpp)                  | medium |      |
 |     [62](https://leetcode-cn.com/problems/unique-paths/)     |                  [不同路径](/medium/62.cpp)                  | medium |      |
 |  [73](https://leetcode-cn.com/problems/set-matrix-zeroes/)   |                  [矩阵置零](/medium/73.cpp)                  | medium |      |
 |     [75](https://leetcode-cn.com/problems/sort-colors/)      |                  [颜色分类](/medium/75.cpp)                  | medium |      |
