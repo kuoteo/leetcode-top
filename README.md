@@ -44,6 +44,8 @@
 | [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) |            [买卖股票的最佳时机 II](/easy/122.cpp)            |  easy  |      |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome/)   |                 [验证回文串](/easy/125.cpp)                  |  easy  |      |
 |  [118](https://leetcode-cn.com/problems/pascals-triangle/)   |                  [杨辉三角](/easy/118.cpp)                   |  easy  |      |
+| [152](https://leetcode-cn.com/problems/maximum-product-subarray/) |              [乘积最大子数组](/medium/152.cpp)               | medium |      |
+|  [162](https://leetcode-cn.com/problems/find-peak-element/)  |                 [寻找峰值](/medium/162.cpp)                  | medium |      |
 | [227](https://leetcode-cn.com/problems/basic-calculator-ii/) |               [基本计算器II](/medium/227.cpp)                | medium |      |
 |   [334](https://leetcode-cn.com/problems/reverse-string/)    |                 [反转字符串](/easy/334.cpp)                  |  easy  |      |
 | [387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) |          [字符串中的第一个唯一字符](/easy/387.cpp)           |  easy  |      |
