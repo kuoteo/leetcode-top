@@ -41,6 +41,7 @@
 |     [79](https://leetcode-cn.com/problems/word-search/)      |                  [单词搜索](/medium/79.cpp)                  | medium |      |
 |     [91](https://leetcode-cn.com/problems/decode-ways/)      |                  [解码方法](/medium/91.cpp)                  | medium |      |
 | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |             [买卖股票的最佳时机](/easy/121.cpp)              |  easy  |      |
+| [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) |            [买卖股票的最佳时机 II](/easy/122.cpp)            |  easy  |      |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome/)   |                 [验证回文串](/easy/125.cpp)                  |  easy  |      |
 |  [118](https://leetcode-cn.com/problems/pascals-triangle/)   |                  [杨辉三角](/easy/118.cpp)                   |  easy  |      |
 | [227](https://leetcode-cn.com/problems/basic-calculator-ii/) |               [基本计算器II](/medium/227.cpp)                | medium |      |
