@@ -15,3 +15,27 @@ public:
         reverse(nums,k%nums.size(),nums.size()-1);//反转后n-k个数字
     }
 };
+
+#solution2 使用环状替换 4ms O(n) O(1)
+class Solution {
+public:
+    void rotate(vector<int>& nums, int k) {
+        k = k % nums.size();
+        int count = 0;
+        for(int start = 0; count < nums.size(); start++){
+            int prekey = start;
+            int preval = nums[start];
+            do{
+                //存值
+                int nextkey = (prekey + k) % nums.size();
+                int nextval = nums[nextkey];
+                //赋值
+                nums[nextkey] = preval;
+                //存值
+                prekey = nextkey;
+                preval = nextval;
+                count++;
+            }while(start!= prekey);
+        }
+    }
+};
