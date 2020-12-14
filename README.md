@@ -51,6 +51,7 @@
 | [227](https://leetcode-cn.com/problems/basic-calculator-ii/) |               [基本计算器II](/medium/227.cpp)                | medium |      |
 | [238](https://leetcode-cn.com/problems/product-of-array-except-self/) |           [除自身以外数组的乘积](/medium/238.cpp)            | medium |      |
 |   [268](https://leetcode-cn.com/problems/missing-number/)    |                 [丢失的数字](/easy/268.cpp)                  |  easy  |      |
+|     [283](https://leetcode-cn.com/problems/move-zeroes/)     |                   [移动零](/easy/283.cpp)                    |  easy  |      |
 |   [334](https://leetcode-cn.com/problems/reverse-string/)    |                 [反转字符串](/easy/334.cpp)                  |  easy  |      |
 | [387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) |          [字符串中的第一个唯一字符](/easy/387.cpp)           |  easy  |      |
 
