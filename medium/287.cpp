@@ -11,7 +11,7 @@ public:
     }
 };
 
-#solution1 二分查找 24ms O(nlogn) O(1)
+#solution2 二分查找 24ms O(nlogn) O(1)
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
@@ -31,5 +31,23 @@ public:
             }
         }
         return ans;
+    }
+};
+
+#solution3 快慢指针 24ms O(n) O(1)
+class Solution {
+public:
+    int findDuplicate(vector<int>& nums) {
+        int slow = 0, fast = 0;
+        do{
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        }while(slow != fast);
+        slow = 0;
+        while(slow != fast){
+            slow = nums[slow];
+            fast = nums[fast];
+        }
+        return slow;
     }
 };
