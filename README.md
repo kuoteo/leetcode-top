@@ -54,6 +54,7 @@
 |   [268](https://leetcode-cn.com/problems/missing-number/)    |                 [丢失的数字](/easy/268.cpp)                  |  easy  |      |
 |     [283](https://leetcode-cn.com/problems/move-zeroes/)     |                   [移动零](/easy/283.cpp)                    |  easy  |      |
 | [287](https://leetcode-cn.com/problems/find-the-duplicate-number/) |                [寻找重复数](/medium/287.cpp)                 | medium |      |
+|    [289](https://leetcode-cn.com/problems/game-of-life/)     |                 [生命游戏](/medium/289.cpp)                  | medium |      |
 |   [334](https://leetcode-cn.com/problems/reverse-string/)    |                 [反转字符串](/easy/334.cpp)                  |  easy  |      |
 | [387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) |          [字符串中的第一个唯一字符](/easy/387.cpp)           |  easy  |      |
 
