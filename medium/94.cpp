@@ -24,3 +24,30 @@ public:
         return vec;
     }
 };
+
+#soulution2 迭代 O(n) O(n)
+class Solution {
+public:
+    void inorder(TreeNode* root,vector<int>& vec){
+        if(!root) return;
+        stack<TreeNode*> nstack;
+        while(!nstack.empty() || root){
+            if(root){
+                nstack.push(root);
+                root = root->left;
+            }
+            else{
+                root = nstack.top();
+                vec.push_back(root->val);
+                nstack.pop();
+                root = root->right;           
+            }
+        }
+    }
+    
+    vector<int> inorderTraversal(TreeNode* root) {
+        vector<int> vec;
+        inorder(root,vec);
+        return vec;
+    }
+};
