@@ -40,6 +40,7 @@
 |   [78](https://leetcode-cn.com/problems/subsets/solution/)   |                    [子集](/medium/78.cpp)                    | medium |      |
 |     [79](https://leetcode-cn.com/problems/word-search/)      |                  [单词搜索](/medium/79.cpp)                  | medium |      |
 |     [91](https://leetcode-cn.com/problems/decode-ways/)      |                  [解码方法](/medium/91.cpp)                  | medium |      |
+| [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) |              [二叉树的中序遍历](/medium/94.cpp)              | medium |      |
 | [105](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |      [从前序与中序遍历序列构造二叉树](/medium/105.cpp)       | medium |      |
 | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |             [买卖股票的最佳时机](/easy/121.cpp)              |  easy  |      |
 | [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) |            [买卖股票的最佳时机 II](/easy/122.cpp)            |  easy  |      |
