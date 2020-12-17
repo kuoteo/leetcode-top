@@ -47,6 +47,7 @@
 | [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) |            [买卖股票的最佳时机 II](/easy/122.cpp)            |  easy  |      |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome/)   |                 [验证回文串](/easy/125.cpp)                  |  easy  |      |
 |  [118](https://leetcode-cn.com/problems/pascals-triangle/)   |                  [杨辉三角](/easy/118.cpp)                   |  easy  |      |
+| [150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) |              [逆波兰表达式求值](/medium/15.cpp)              | medium |      |
 | [152](https://leetcode-cn.com/problems/maximum-product-subarray/) |              [乘积最大子数组](/medium/152.cpp)               | medium |      |
 |  [162](https://leetcode-cn.com/problems/find-peak-element/)  |                 [寻找峰值](/medium/162.cpp)                  | medium |      |
 |    [189](https://leetcode-cn.com/problems/rotate-array/)     |                 [旋转数组](/medium/189.cpp)                  | medium |      |
